@@ -18,6 +18,17 @@ editor:
     wrap: 72
 ---
 
+<!-- Formatting for background color of entire page -->
+<style>
+body {
+  background-color: lightskyblue; /* Change to your desired color */
+}
+</style>
+
+Formatting for text color: \n
+<span style="color: midnightblue;">This text is blue.</span> And this text is <span style="color: blue;">blue.</span>
+
+
 Slides: [slides.html](slides.html){target="_blank"} ( Go to `slides.qmd`
 to edit)
 

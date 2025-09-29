@@ -21,7 +21,7 @@ editor:
 <!-- Formatting for background color of entire page -->
 <style>
 body {
-  background-color: lightskyblue; /* Change to your desired color */
+  background-color: lightblue; /* Change to your desired color */
 }
 </style>
 
@@ -76,24 +76,24 @@ to add more work...*
 
 Cite new paper [@su2012linear]  -->
 
-Outline of Introduction and Literature Review:
+## Rough draft/ outline of Introduction and Literature Review:
 
-## Introduction:
+### Introduction:
 
 -State what logistic regression is and why it is commonly used in research (it helps make predictions about categorical outcome variables, usually a binary outcome. It also helps to analyze several predictors simultaneously and how they all relate to the outcome variable at once). Discuss how we usually model LR and how we interpret results.
 -Discuss which types of scenarios logistic regression is usually used in. It is actually used in a variety of contexts and is very useful for solving everyday problems around the world:
- -disease detection- identifying predictors of the presence of a disease helps people make preventive decisions regarding their health. It also helps practicioners more easily identify and diagnose specific health conditions. 
+ -disease detection- identifying predictors of the presence of a disease helps people make preventive decisions regarding their health. It also helps practitioners more easily identify and diagnose specific health conditions. 
 -predictions about the way people make decisions; specifically, healthcare decisions
 -traffic and accident prediction
 -fraud detection
 
-## Literature Review:
+### Literature Review:
 
 Articles about using logistic regression in medical contexts:
 
-1.	Understanding logistic regression analysis discusses the usefulness of a logistic regression model and describes how to set up and interpret such a model when analyzing data. A logistic regression model is especially useful when dealing with more than two predictors and an outcome variable that has two or more classes or categories. This article gives an example of a logistic regression analysis with a synthetic dataset about patients undergoing a drug treatment. The outcome variable is categorical and binary in nature, taking on values of survived (1), or did not survive (0). The result of the analysis gives an explanation of how to interpret output from the model. One must take the expnentials of the slopes in the model to find the chances (the probability) of an event occurring. It is noted that in order to correctly understand results of a logistic regression, one must carefully consider the differences between the odds ratio, the log odds, and the probabilities of events occurring. Another important point in the article states the importance of feature selection; a common way that predictors are selected for a logistic regression model is through a preliminary univariate analysis. During data preprocessing, all predictors are analyzed individually in relation to the outcome variable in a univariate analysis, and all significant predictors are used in the multivariate logistic regression analysis.  
+1. "Understanding logistic regression analysis" discusses the usefulness of a logistic regression model and describes how to set up and interpret such a model when analyzing data. A logistic regression model is especially useful when dealing with more than two predictors and an outcome variable that has two or more classes or categories. This article gives an example of a logistic regression analysis with a synthetic dataset about patients undergoing a drug treatment. The outcome variable is categorical and binary in nature, taking on values of survived (1), or did not survive (0). The result of the analysis gives an explanation of how to interpret output from the model. One must take the expnentials of the slopes in the model to find the chances (the probability) of an event occurring. It is noted that in order to correctly understand results of a logistic regression, one must carefully consider the differences between the odds ratio, the log odds, and the probabilities of events occurring. Another important point in the article states the importance of feature selection; a common way that predictors are selected for a logistic regression model is through a preliminary univariate analysis. During data preprocessing, all predictors are analyzed individually in relation to the outcome variable in a univariate analysis, and all significant predictors are used in the multivariate logistic regression analysis.  
 
-2. Determinants of coexistence of undernutrition and anemia among under- five children in Rwanda; evidence from 2019/20 demographic health survey: Application of bivariate binary logistic regression model
+2. "Determinants of coexistence of undernutrition and anemia among under- five children in Rwanda; evidence from 2019/20 demographic health survey: Application of bivariate binary logistic regression model"
 
 -This article details a bivariate binary logistic regression model. There are two outcome variables: anemia and undernutrition in children under five years of age in Rwanda. The study analyzes the relationship between the two outcome variables, as well as the relationship between 26 predictors relating to the childrens’ preexisting health conditions, family information, details about the parents, and relevant geographic information. One result of the study was that the relationship between the two outcome variables, presence of malnutrition and presence of anemia, was found to be significant. It was also found that six predictors were found to be sinificant: mother’s age, drinking water, other children in household, child gender, birth order, and gender of head of household. The conclusion states that improving maternal education, supplementing with vitamin A and other nutrient dense foods, providing a healthy home environment environment, and decreasing maternal anemia may help improve rates of malnutrition and anemia in children.
 
@@ -116,7 +116,7 @@ Articles about detecting fraud:
 1.	Using Binary logistic Regression to Detect Health Insurance Fraud
 
 
-## Methods
+<!--## Methods
 
 -   Detail the models or algorithms used.
 
@@ -207,3 +207,5 @@ ggplot1 = murders %>% ggplot(mapping = aes(x=population/10^6, y=total))
 -   Discuss the implications of your results.
 
 ## References
+
+-->

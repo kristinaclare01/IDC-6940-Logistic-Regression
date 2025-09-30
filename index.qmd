@@ -21,7 +21,7 @@ editor:
 <!-- Formatting for background color of entire page -->
 <style>
 body {
-  background-color: lightblue; /* Change to your desired color */
+  background-color: lightcyan; /* Change to your desired color */
 }
 </style>
 
@@ -459,4 +459,3 @@ ggplot1 = murders %>% ggplot(mapping = aes(x=population/10^6, y=total))
 ## References
 
 -->
-TEST TEST TEST

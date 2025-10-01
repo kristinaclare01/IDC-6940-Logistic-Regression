@@ -76,10 +76,9 @@ to add more work...*
 
 Cite new paper [@su2012linear]  -->
 
-## Outline/ draft of Introduction and Literature Review:
 <p><b>Please note that this is a general outline/ rough draft of the literature review containing all article summaries from everyone's individual research. All research summaries will be revised and edited further, and a polished version of this literature review will be posted next week, 10/6/25. </b></p>
 
-### Introduction:
+## Introduction:
 
 -State what logistic regression is and why it is commonly used in research (it helps make predictions about categorical outcome variables, usually a binary outcome. It also helps to analyze several predictors simultaneously and how they all relate to the outcome variable at once). Discuss how we usually model LR and how we interpret results.<br>
 -Discuss which types of scenarios logistic regression is usually used in. It is actually used in a variety of contexts and is very useful for solving everyday problems around the world:<br>
@@ -88,7 +87,6 @@ Cite new paper [@su2012linear]  -->
 -traffic and accident prediction <br>
 -fraud detection<br>
 
-### Literature Review:
 
 #### Articles about interesting methodologies involving logistic regression:
 

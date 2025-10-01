@@ -468,7 +468,46 @@ ggplot1 = murders %>% ggplot(mapping = aes(x=population/10^6, y=total))
 -   Summarize your key findings.
 
 -   Discuss the implications of your results.
-
-## References
-
 -->
+## References
+<p><small><small>
+
+Agmas, Y. A., & Asmare, A. A. (2024). Determinants of coexistence of undernutrition and anemia among under-five children in Rwanda; evidence from 2019/20 demographic health survey: Application of bivariate binary logistic regression model. PLoS ONE, 19(4), 1–21. https://doi.org/10.1371/journal.pone.0290111 
+
+Akter, T., Pervaz, S., Rahman, M. H., & Zafri, N. M., (2021). Identification of factors influencing severity of motorcycle crashes in Dhaka, Bangladesh using binary logistic regression model. International Journal of Injury Control & Safety Promotion, 28(2), 141–152. https://doi.org/10.1080/17457300.2021.1878230
+
+Chang, Z. K., Chen, Y. W., & You, P. (2024). Binary logistic regression analysis of factors affecting urban road traffic safety. Advances in Transportation Studies, 3, 13–26. https://doi.org/10.53136/97912218165702
+
+Chen, M.-M., & Chen, M.-C. (2020). Modeling Road Accident Severity with Comparisons of Logistic Regression, Decision Tree and Random Forest. Information, 11(5), 270. https://doi.org/10.3390/info11050270
+
+Guanche, Y., Mínguez, R. & Méndez, F.J. Autoregressive logistic regression applied to atmospheric circulation patterns. Clim Dyn 42, 537–552 (2014). https://doi.org/10.1007/s00382-013-1690-3
+
+
+Hu, Wei. (2016). Using Genetic Algorithms and Sparse Logistic Regression to Find Gene Signatures for Chemosensitivity Prediction in Breast Cancer. American Journal of Bioscience and Bioengineering. 4. 26. 10.11648/j.bio.20160402.12.
+
+Hutchinson, A., Johnson, M., Pickering, A., & Williams, P. (2023). Predictors of hospital admission when presenting with acute-on-chronic breathlessness: Binary logistic regression. PLoS ONE, 18(8), 1–7. https://doi.org/10.1371/journal.pone.0289263
+
+
+Lin JC, Jain B, Iyer JM, et al. Benefit-Risk Reporting for FDA-Cleared Artificial Intelligence−Enabled Medical Devices. JAMA Health Forum. 2025;6(9):e253351. doi:10.1001/jamahealthforum.2025.3351
+
+Liu, J., Lyu, Y., & Xu, Q. (2024). Exploring the medical decision-making patterns and influencing factors among the general Chinese public: a binary logistic regression analysis. BMC Public Health, 24(1), 1–12. https://doi.org/10.1186/s12889-024-18338-8
+
+Park D, Lee DH, Kim R, Shin M, Subramanian SV. Prevalence of Clinical Obesity in US Adults Based on a Newly Proposed Definition. JAMA Netw Open. 2025;8(9):e2533806. doi:10.1001/jamanetworkopen.2025.33806
+
+
+Prottengeier, J., Kaiser, I., Moritz, A., & Konrad, F. (2025). Risk factors for airplane headache: A multivariable logistic regression analysis in a population of career flight personnel. Cephalalgia, 45(4), 1–10. https://doi.org/10.1177/03331024251329837
+
+Samara, B. (2024). Using Binary Logistic Regression to Detect Health Insurance Fraud. Pakistan Journal of Life & Social Sciences, 22(2), 11199–11218. https://doi.org/10.57239/PJLSS-2024-22.2.00848
+
+Sperandei S. Understanding logistic regression analysis. Biochem Med (Zagreb). 2014;24:12-18
+
+
+Wu, Meng-Yun & Xiao-Fei, Zhang & Dai, Dao-Qing & Ou-Yang, Le & Zhu, Yuan & Yan, Hong. (2016). Regularized logistic regression with network-based pairwise interaction for biomarker identification in breast cancer. BMC bioinformatics. 17. 108. 10.1186/s12859-016-0951-7.
+
+Zhang L, Ray H, Priestley J, Tan S. A descriptive study of variable discretization and cost-sensitive logistic regression on imbalanced credit data. J Appl Stat. 2019 Jul 23;47(3):568-581. doi: 10.1080/02664763.2019.1643829. PMID: 35706966; PMCID: PMC9041569.
+
+
+</small></small></p>
+
+
+
